@@ -21,6 +21,7 @@ namespace ClassMetotDemo
                 Console.WriteLine(musteri.Id + " " + musteri.Tc + " " + musteri.MusteriAd + " " +
                     musteri.MusteriSoyad + " " + musteri.Bakiye + " " + musteri.HesapTuru);
             }
+
         }
 
         public void Sil(Musteri[] musteriler)
