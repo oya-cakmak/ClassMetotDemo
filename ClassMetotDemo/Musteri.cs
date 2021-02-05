@@ -17,6 +17,5 @@ namespace ClassMetotDemo
         public string HesapTuru { get; set; }
 
         public double Bakiye { get; set; }
-
     }
 }
