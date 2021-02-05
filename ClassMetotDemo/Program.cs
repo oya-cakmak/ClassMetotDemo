@@ -6,6 +6,7 @@ namespace ClassMetotDemo
     {
         static void Main(string[] args)
         {
+
             Musteri musteri1 = new Musteri
             {
                 Id = 1,

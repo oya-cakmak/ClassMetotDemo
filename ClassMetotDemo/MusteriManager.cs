@@ -10,7 +10,6 @@ namespace ClassMetotDemo
         {
             foreach (Musteri musteri in musteriler)
             {
-
                 Console.WriteLine(musteri.MusteriAd + " " + musteri.MusteriSoyad + " eklendi");
             }
         }
