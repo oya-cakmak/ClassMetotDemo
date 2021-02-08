@@ -48,6 +48,7 @@ namespace ClassMetotDemo
 
             musteriManager.Sil(new Musteri[] { musteri2, musteri3 });
 
+
             Console.ReadLine();
         }
     }

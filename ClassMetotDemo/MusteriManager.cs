@@ -12,6 +12,7 @@ namespace ClassMetotDemo
             {
                 Console.WriteLine(musteri.MusteriAd + " " + musteri.MusteriSoyad + " eklendi");
             }
+
         }
 
         public void Listele(Musteri[] musteriler)
